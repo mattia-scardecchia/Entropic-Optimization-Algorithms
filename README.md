@@ -2,7 +2,7 @@
 
 The goal of this project was twofold. First, investigating the relationship between the flatness of the loss landscape around minima and the ability to generalize in deep unsupervised learning; second, evaluating the effectiveness of entropic optimization algorithms in this setting, compared to standard gradient-based methods.
 
-For a detailed description of the background, experimental setting and results I refer to the manuscript of my undergraduate thesis, available as `Mattia Scardecchia Undergraduate Thesis.pdf`.
+For a detailed description of the background, experimental setting and results I refer to the manuscript of my undergraduate thesis, available as `Mattia Scardecchia Undergraduate Thesis.pdf`. The thesis also includes an analytic study, using methods from statistical physics, of the fixed points a Hopfield-type model of recurrent neural network with random weights.
 
 # Installation
 
